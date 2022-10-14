@@ -1,1 +1,3 @@
-# BeanJ
+# Headline
+
+> An awesome project.
